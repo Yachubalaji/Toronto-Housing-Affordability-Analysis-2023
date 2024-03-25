@@ -1,3 +1,8 @@
+
+Web link
+Toronto-Housing-Affordability-Analysis-2023 : [https://smuhalifax.maps.arcgis.com/apps/instant/media/index.html?appid=9ad6df40e8c34cd08c99fbffbd96161f]
+
+
 Overview
 This repository hosts an in-depth analysis of Toronto's housing affordability in 2023, leveraging ArcGIS to visualize and interpret the intricate relationship between housing data and population density. Our primary goal is to uncover insights into the city's housing affordability, providing a comprehensive overview that informs both policymakers and the public.
 
